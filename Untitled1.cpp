@@ -16,5 +16,5 @@ int main()
 	int b = 19;
 	cout << "Amin mohammd beglari";
 	int ad = 22;
-	cout << "Adfami";d
+	cout << "Adfami";
 }
