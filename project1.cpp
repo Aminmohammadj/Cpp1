@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	system("color d");
+	system("color a");
 int c=0, w=0;
 char ch=0;
 cout<<"Enter a paragraph (and press Enter for end):\n";
