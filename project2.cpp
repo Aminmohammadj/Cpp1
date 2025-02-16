@@ -2,6 +2,8 @@
 using namespace std;
 main()
 {
+	system("color f");
+	system("cls");
     char ch;
 	int i; 
     cin>>ch;
