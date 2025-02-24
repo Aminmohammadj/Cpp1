@@ -7,7 +7,6 @@ char a[10] = {'O', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
 
 main()
 {
-
 	char  mark;
 	int  i, p=1;
 	int b;
@@ -15,7 +14,6 @@ main()
 	cout << "\n\t------TIC TAC TOE------\n\n";
 	cout << "\t     O \t AND \tX\n";
 	do{
-		
 		plan();
 		
 		p = (p % 2)? 1 : 2;
