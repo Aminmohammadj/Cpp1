@@ -15,6 +15,6 @@ w++;
 }
 cout<<"\nChar count= "<<c<<", Word count= "<<w+1; getch();
 cout <<endl;
-cout << "Govata ela";
+cout << "In chi bod";
 return 0;
 }
