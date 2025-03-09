@@ -10,7 +10,7 @@ main()
 	char  mark;
 	int  i, p=1;
 	int b;
-	
+
    do
    {
    	system("cls");
@@ -71,6 +71,9 @@ int bb()
 }
 void menu()
 {
+	cout << "\n\n\t\t\t\---TIC TOC TOE---\n\n\n";
+	cout << "\t\t\t\Player : O AND X \n\n\n";
+		
 	cout << '\n';
 	cout << "\t\t\t    |    |   \n";
 	cout << "\t\t\t  " << a[1] << " |  " << a[2] << " |  " << a[3] << endl;
